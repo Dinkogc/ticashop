@@ -1,5 +1,0 @@
-
-1- crear proyecto: npx create-react-app mi-proyecto
-2- ubicarse en carpeta del proyecto: cd mi-proyecto
-3- instalar react router dom: npm install react-router-dom
-4- iniciar react: npm start
